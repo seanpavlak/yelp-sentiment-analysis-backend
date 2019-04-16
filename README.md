@@ -1,15 +1,8 @@
 # yelp-sentiment-analysis-backend
-Yelp Data Set Sentiment Analysis
-
-Type of project
----------------
-
-Data Analysis of a defined dataset
-
-Purpose of Project
-------------------
-
 Yelp Rating Prediction Based on Text Review Sentiment Analysis
+
+Abstract
+------------------
 
 Yelp releases a dataset of business data, review text data, user data, checkin data, tips, and photos. Using this data, it would be meaningful if we could take a random sample of reviews and train classifiers to determine the sentiment of reviews in order to predict ratings based solely on review's text. This can hopefully be done by cleaning the dataset up and utilizing the bag-of-words model. Once the data is preprocessed we should be able to train the models using set python libraries and evaluate the efficiency of the models on determining the sentiment of each review. The sentiment analysis of a full set of reviews will allow us to gauge the public opinion of a facility and predict a rating.
 
