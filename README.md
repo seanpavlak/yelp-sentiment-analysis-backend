@@ -612,4 +612,4 @@ References
 
 [Sentiment Analysis of Yelp‘s Ratings Based on Text Reviews](http://cs229.stanford.edu/proj2014/Yun%20Xu,%20Xinhui%20Wu,%20Qinxia%20Wang,%20Sentiment%20Analysis%20of%20Yelp's%20Ratings%20Based%20on%20Text%20Reviews.pdf)
 
-[Yelp Dataset Documentation](https://www.yelp.com/dataset/documentation/json)
+[Yelp Dataset Documentation](https://www.yelp.com/dataset/documentation/main)
