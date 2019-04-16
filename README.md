@@ -32,15 +32,9 @@ Basic Steps Involved
 -   Test and evaluate models
 -   Use review sentiment models to predict rating
 
-Packages
+Tech Stack
 --------
-
-dataset:
-
--   yelp\_academic\_dataset\_review.json
-
-python:
-
+-   Python (Jupyter Notebook)
 -   [CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 -   [Glob](https://github.com/python/cpython/blob/2.7/Lib/glob.py)
 -   [JSON Simple](https://code.google.com/archive/p/json-simple/)
@@ -57,6 +51,7 @@ python:
 -   [String](https://docs.python.org/2/library/string.html)
 -   [Time](https://docs.python.org/2/library/time.html)
 -   [WordCloud](https://github.com/amueller/word_cloud)
+-   yelp\_academic\_dataset\_review.json
 
 Overview
 --------
